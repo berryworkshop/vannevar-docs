@@ -1,0 +1,141 @@
+library encyclopedia/directory
+
+about the built environment of LAMs:
+    the buildings, tools, networks
+    LAMs as experience, as destination, as treasure
+    make LAMs sexy
+
+
+person
+    job
+    name
+organization
+    orgs not endpoints: must be able to be a parent or child
+    type
+        archive
+        museum
+        library
+        consortium
+        federation
+        school
+    structure
+        nonprofit
+        corporation
+        government
+building
+
+service
+collection
+tool
+    genre
+keyword
+terms: glossary
+project
+facts
+ratings
+message boards for items
+web resources (links)
+things
+share on social media
+events
+special collections
+
+short articles
+    history of particular LAMs
+    tools used in LAMs
+
+
+
+external link
+
+
+
+
+http://www.americanlibrarydirectory.com.proxy2.library.illinois.edu/PayRecord.asp?ID=753509
+    http://www.americanlibrarydirectory.com.proxy2.library.illinois.edu/PayRecord.asp?ID=706343
+http://www.ala.org/tools/libfactsheets/alalibraryfactsheet03
+http://www.ala.org/tools/libfactsheets/alalibraryfactsheet03#libdirus
+http://books.infotoday.com/directories/American-Library-Directory.shtml
+Internet Public Library
+    http://ipl2.org/IPLBrowse/GetSubject?vid=13&tid=6981&parent=6925
+    http://www.ipl.org/div/liblocator/
+    http://www.ipl.org/IPLBrowse/GetSubject?vid=13&cid=1&tid=7493&parent=7213
+Libweb
+    http://www.lib-web.org/
+http://www.publiclibraries.com/
+http://outage.census.gov/maintenance.html?_host=harvester.census.gov
+https://harvester.census.gov/imlssearch/
+https://harvester.census.gov/imlscompare/
+http://librarytechnology.org/libraries/
+http://www.worldcat.org/
+http://www.libraries411.com/
+http://www.abc-clio.com/ODLIS/odlis_A.aspx
+http://www.librarydir.org/
+http://www.sylviamilne.co.uk/libcats.htm
+http://libraryunderground.org/
+http://librarytechnology.org/libraries/
+https://www.imls.gov/research-evaluation/data-collection/public-libraries-united-states-survey
+https://www.imls.gov/research-evaluation/data-collection/public-libraries-united-states-survey/public-libraries-united
+
+
+
+
+tests?
+interaction with librarian
+how to break into pieces to be tested: what quiz would evaluate understanding?
+
+Remove:
+    [easy, simple, straightforward, difficult, challenging, elementary, intermediate]
+
+potential article-type things
+    maps
+        libraries in Chicago
+    communities
+        Code4Lib
+    comparisons
+        heroku vs. custom VM
+        strategy vs. tactics
+        formalism vs. conceptualism
+        ArchivesSpace vs. Archivist's Toolkit vs. Archon
+    tutorials
+        meteor.js
+        D3.js
+    technology briefs
+        data visualization
+        Linux
+        Git
+        wagtail
+        EAD
+        TEI
+        ADSM
+        Jenkins
+        Selenium
+        Python
+        Node.js
+        Java
+        D3
+        Processing
+        Vireo
+        DataOne
+        HTML5
+        CSS3
+        Omeka
+        Neatline
+    words
+        strategy, tactics
+        politics
+        theory, formalism
+        structures
+        aspects, categories
+        collections
+        data and metadata
+        history and fugure
+        vocabulary
+        use, interface, interaction
+        users
+        mission
+        workflow
+        buildings, containers
+        people
+        users
+        finances
