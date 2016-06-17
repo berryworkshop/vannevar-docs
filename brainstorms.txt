@@ -6,39 +6,6 @@ about the built environment of LAMs:
     make LAMs sexy
 
 
-person
-    job
-    name
-organization
-    orgs not endpoints: must be able to be a parent or child
-    type
-        archive
-        museum
-        library
-        consortium
-        federation
-        school
-    structure
-        nonprofit
-        corporation
-        government
-building
-
-service
-collection
-tool
-    genre
-keyword
-terms: glossary
-project
-facts
-ratings
-message boards for items
-web resources (links)
-things
-share on social media
-events
-special collections
 
 short articles
     history of particular LAMs
