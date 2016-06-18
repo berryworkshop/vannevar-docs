@@ -4,7 +4,7 @@ Definition:
     educational institutions cannot be for profit
     LAMs must have accessible, permanent collections
 
-
+## Secondary Education
 University of Chicago
     University of Chicago Library
         Special Collections Research Center
@@ -52,58 +52,6 @@ Purdue University
 Brown University
 Harvard University
 Princeton University
-Prado National Museum
-National Endowment for the Humanities
-National Science Foundation
-National Endowment for the Arts
-Ford Foundation
-Kresge Foundation
-Bill and Melinda Gates Foundation
-J. Paul Getty Trust
-Getty Images
-Robert Wood Johnson Foundation
-William and Flora Hewlett Foundation
-The MasterCard Foundation
-W.K. Kellogg Foundation
-Lilly Endowment
-Andrew W. Mellon Foundation
-John D. and Catherine T. MacArthur Foundation
-The Pew Charitable Trusts
-Bill & Melinda Gates Foundation
-Stichting INGKA Foundation
-Wellcome Trust
-Howard Hughes Medical Institute
-Ford Foundation
-J. Paul Getty Trust
-Kamehameha Schools
-Mohammed bin Rashid Al Maktoum Foundation
-Azim Premji Foundation
-Robert Wood Johnson Foundation
-William and Flora Hewlett Foundation
-Li Ka Shing Foundation
-The MasterCard Foundation
-W.K. Kellogg Foundation
-The Church Commissioners for England
-Lilly Endowment
-Robert Bosch Foundation
-Garfield Weston Foundation
-Gordon and Betty Moore Foundation
-David and Lucile Packard Foundation
-Andrew W. Mellon Foundation
-John D. and Catherine T. MacArthur Foundation
-The Pew Charitable Trusts
-Knut and Alice Wallenberg Foundation
-Silicon Valley Community Foundation
-Nemours Foundation
-Bloomberg Philanthropies
-The Leona M. and Harry B. Helmsley Charitable Trust
-Sulaiman Abdul Aziz Al Rajhi
-Tulsa Community Foundation
-Rockefeller Foundation
-The California Endowment
-Realdania
-Calouste Gulbenkian Foundation
-The Duke Endowment
 Stanford University
 University of California
     University of California Los Angeles
@@ -118,7 +66,571 @@ University of California
     University of California Merced
 Columbia University
 Rensselaer Polytechnic Institute
-Money Museum
+Tulane University
+LeHigh University
+Northeastern University
+Rhode Island School of Design
+Art Center College of Design
+Eastern Illinois University
+Governors State University
+Illinois State University
+Northeastern Illinois University
+Western Illinois University
+    Western Illinois University-Quad Cities
+California Institute of Technology
+Augustana College
+Blackburn College
+Columbia College Chicago
+Elmhurst College
+Eureka College
+Greenville College
+Illinois College
+Knox College
+Lake Forest College
+Lakeview College of Nursing
+Lincoln College (Illinois)
+MacMurray College
+Monmouth College
+North Central College
+Principia College
+Saint Anthony College of Nursing
+Shimer College
+Trinity Christian College
+Trinity International University
+VanderCook College of Music
+Wheaton College
+Aurora University
+Benedictine University
+Bradley University
+The Chicago School of Professional Psychology
+University of Chicago
+Concordia University Chicago
+DePaul University
+Dominican University
+East–West University
+Erikson Institute
+Illinois Institute of Technology
+Illinois Wesleyan University
+Judson University
+Lewis University
+Lincoln Christian University
+Lindenwood University-Belleville
+Loyola University Chicago
+Lutheran School of Theology at Chicago
+McKendree University
+Midwestern University
+Millikin University
+Moody Bible Institute
+National Louis University
+National University of Health Sciences
+North Park University
+Northern Baptist Theological Seminary
+Northwestern University
+Olivet Nazarene University
+Quincy University
+Resurrection University
+Massachusetts Institute of Technology
+Robert Morris University
+Rockford University
+Roosevelt University
+Rosalind Franklin University of Medicine and Science
+Rush University
+University of St. Francis
+Saint Xavier University
+School of the Art Institute of Chicago
+Spertus Institute for Jewish Learning and Leadership
+Toyota Technological Institute at Chicago
+Trinity International University
+New York University
+Cornell University
+Oberlin College
+Dartmouth College
+Albion College
+Hope College
+Vanderbilt University
+Washington University in St. Louis
+Rice University
+Emory University
+Georgetown University
+Carnegie Mellon University
+University of Southern California
+University of Virginia
+Tufts University
+Wake Forest University
+Boston College
+North Carolina State University
+University of Rochester
+Brandeis University
+Syracuse University
+College of William and Mary
+Georgia Institute of Technology
+Case Western Reserve University
+University of Pennsylvania
+Yale University
+Rhode Island School of Design
+University of Texas
+    University of Texas - Austin
+University of Washington
+Yeshiva University
+University of Alabama
+State University of New York
+    State University of New York - Albany
+    State University of New York - Buffalo
+University of Alberta
+University of Arizona
+University of Louisville
+Kentucky State University
+Eastern Kentucky University
+Northern Kentucky University
+University of British Columbia
+Catholic University of America
+Clarion University of Pennsylvania
+Dalhousie University
+University of Denver
+Dominican University
+Drexel University
+East Carolina University
+Emporia State University
+Florida State University
+University of Hawaii
+Kent State University
+University of Kentucky
+Long Island University
+Louisiana State University
+McGill University
+University of Maryland
+University of Michigan
+University of Missouri
+    University of Missouri - Columbia
+University of Montreal
+University of North Carolina
+    University of North Carolina - Chapel Hill
+    University of North Carolina - Greensboro
+State University of New York
+Liberty University
+The Pennsylvania State University
+Arizona State University
+University of Central Florida
+University of Maryland
+University of Minnesota
+University of Florida
+North Carolina Central University
+University of North Texas
+University of Oklahoma
+University of Ottawa
+University of Pittsburgh
+Pratt Institute
+University of Puerto Rico
+City University of New York
+    City University of New York - Queens College
+University of Rhode Island
+Rutgers University
+St. Catherine University
+St. John's University
+San Jose State University
+Simmons College
+University of South Carolina
+University of South Florida
+University of Southern Mississippi
+Syracuse University
+University of Tennessee
+Texas Woman's University
+University of Toronto
+Valdosta State University
+University of Washington
+Wayne State University
+University of Western Ontario
+Duke University
+Michigan Technical University
+Western Michigan University
+Eastern Michigan University
+Wayne State University
+Pennsylvania State University
+    Pennsylvania State University - University Park
+University of Florida
+University of Miami
+Indiana University
+University of Notre Dame
+The Ohio State University
+    The Ohio State University - Columbus
+Indiana University
+University of Maryland
+Michigan State University
+Rutgers University
+    Rutgers University New Brunswick
+University of Iowa
+University of Minnesota
+Pepperdine University
+University of Nebraska
+    University of Nebraska - Lincoln
+University of Wisconsin
+    University of Wisconsin - Madison
+    University of Wisconsin - Milwaukee
+Johns Hopkins University
+Feinberg School of Medicine
+John Marshall Law School
+Chicago State University
+Roosevelt University
+    Roosevelt University Library
+Illinois Institute of Technology
+    Kent College of Law
+        Library
+Northern Illinois University
+Purdue University
+    Purdue University Calumet
+    Purdue University North Central
+Resurrection University
+    Chicago
+    Evanston
+    Oak Park
+Robert Morris University
+Quincy University
+Argosy University
+Augustana College
+Aurora University
+Benedictine University
+Blackburn College
+Blessing-Rieman College of Nursing
+St. Augustine College
+Bradley University
+Catholic Theological Union
+Chicago State University
+Columbia College Chicago
+Concordia University Chicago
+DePaul University
+DeVry University
+Dominican University
+Eastern Illinois University
+East-West University
+Elmhurst College
+Eureka College
+Governors State University
+Greenville College
+Harrington College of Design
+Illinois College
+Illinois College of Optometry
+Illinois Institute of Technology
+Illinois State University
+Illinois Wesleyan University
+Judson University
+Kendall College
+Knox College
+Lake Forest College
+American Conservatory of Music
+Barat College
+Bush Conservatory of Music
+Central YMCA College
+The Chicago Conservatory College
+Evanston College for Ladies
+Illinois Technical College
+International Academy of Design & Technology
+La Salle Extension University
+Lexington College
+Mundelein College
+Lake Forest Graduate School of Management
+Lewis University
+Lincoln Christian University
+Loyola University Chicago
+MacMurray College
+McKendree University
+Midwestern University
+Millikin University
+Moody Bible Institute
+National University of Health Sciences
+National-Louis University
+North Central College
+Northern Illinois University
+Olivet Nazarene University
+Principia College
+Roosevelt University
+Saint Xavier University
+Trinity International University
+University of St. Francis
+Trinity Christian College
+Southern Illinois University
+    Southern Illinois University Carbondale
+    Southern Illinois University Edwardsville
+Saint Francis Medical Center College of Nursing
+Rosalind Franklin University of Medicine and Science
+Rockford College
+Rock Valley College
+Trinity International University
+University of Saint Mary of the Lake
+University of Wisconsin–Parkside
+Valparaiso University
+Adler School of Professional Psychology
+Bexley Seabury
+Catholic Theological Union
+Chicago College of Osteopathic Medicine\
+Chicago Theological Seminary
+Erikson Institute\
+Garrett–Evangelical Theological Seminary
+Illinois College of Optometry
+The Institute for Clinical Social Work
+John Marshall Law School
+Lake Forest Graduate School of Management
+Loyola University Chicago
+Lutheran School of Theology at Chicago
+McCormick Theological Seminary
+Meadville Lombard Theological School
+Northern Baptist Theological Seminary
+Robert Morris University
+    Morris Graduate School of Management
+Rosalind Franklin University of Medicine and Science
+Rush University
+Spertus Institute for Jewish Learning and Leadership
+Toyota Technological Institute at Chicago
+The Chicago School of Professional Psychology
+    Chicago Campus Library
+    Los Angeles & Irvine Library
+    Washington, D.C. Campus Library
+College of DuPage
+College of Lake County
+Elgin Community College
+Harper College
+Joliet Junior College=
+MacCormac College
+McHenry County College
+Moraine Valley Community College
+Morton College
+Oakton Community College
+Prairie State College
+South Suburban College
+Triton College
+Waubonsee Community College
+Calumet College of St. Joseph
+Carthage College
+Elmhurst College
+Hebrew Theological College
+North Central College
+Saint Joseph's College
+Telshe Yeshiva
+Trinity Christian College
+Wheaton College
+Aurora University
+Benedictine University
+Concordia University Chicago
+DePaul University
+Dominican University
+Governors State University
+Illinois Institute of Technology
+    Wheaton, Illinois
+    Chicago, Illinois
+        Library
+Indiana University Northwest
+Judson University
+Lewis University
+Midwestern University
+National University of Health Sciences
+North Park University
+Northeastern Illinois University
+
+## Libraries
+North Riverside Public Library District
+Northlake Public Library District
+Prairie Trails Public Library District
+Richton Park Public Library District
+River Forest Public Library
+River Grove Public Library District
+Riverdale Public Library District
+Steger-South Chicago Heights Public Library District
+Stickney-Forest View Public Library District
+Summit Public Library District
+Riverside Public Library
+Schiller Park Public Library
+South Holland Public Library
+Oak Lawn Public Library
+    Main Library
+    Dole Branch Library
+    Maze Branch Library
+Palos Heights Public Library
+Palos Park Public Library
+Park Forest Public Library
+Thomas Ford Memorial Library
+Thornton Public Library
+Tinley Park Public Library
+    Bookmobile
+University Park Public Library District
+Westchester Public Library
+Westmont Public Library
+William Leonard Public Library District
+Woodridge Public Library
+Worth Public Library District
+Batavia Public Library
+Bloomingdale Public Library
+Franklin Park Library
+Geneva Public Library District
+Glen Ellyn Public Library
+Itasca Community Library
+St. Charles Public Library
+Villa Park Public Library
+West Chicago Public Library District
+Center for Research Libraries
+    Northeast Research Libraries Consortium
+Acorn Public Library District
+Alsip-Merrionette Park Public Library District
+Bedford Park Public Library District
+Beecher Community Library District
+Bellwood Public Library
+Berkeley Public Library
+Berwyn Public Library
+Blue Island Public Library
+Bridgeview Public Library
+Broadview Public Library District
+Brookfield Public Library
+Brookfield Zoo
+    Library
+Calumet City Public Library
+Calumet Park Public Library
+Chicago Heights Public Library
+Chicago Ridge Public Library
+Cicero Public Library
+Clarendon Hills Public Library
+Crestwood Public Library District
+Crete Public Library District
+Dolton Public Library District
+Downers Grove Public Library
+Eisenhower Public Library District
+Elmwood Park Public Library
+Evergreen Park Public Library
+Flossmoor Public Library
+Forest Park Public Library
+Frankfort Public Library District
+Frankfort Public Library District
+    Outreach
+Franklin Park Public Library District
+Glenwood-Lynwood Public Library District
+Glenwood-Lynwood Public Library District
+    Bookmobile
+Grande Prairie Public Library District
+Harvey Public Library District
+Hillside Public Library
+Hinsdale Public Library
+Hodgkins Public Library District
+Homewood Public Library District
+Indian Prairie Public Library District
+Justice Public Library District
+LaGrange Park Public Library District
+LaGrange Public Library
+Lansing Public Library
+Lyons Public Library
+Markham Public Library
+    Bradford Anderson Oglesby Library
+Matteson Area Public Library District
+Maywood Public Library District
+McCook Public Library District
+Melrose Park Public Library
+Midlothian Public Library
+Nancy L. McConathy Public Library District
+Detroit Public Library
+Newberry Library
+Illinois State Library
+    Library Development Group
+Chicago Public Library
+    Harold Washington Library Center
+    Albany Park
+    Altgeld
+    Archer Heights
+    Austin
+    Austin-Irving
+    Avalon
+    Back of the Yards
+    Beverly
+    Bezazian
+    Blackstone
+    Brainerd
+    Brighton Park
+    Bucktown-Wicker Park
+    Budlong Woods
+    Canaryville
+    Chicago Bee
+    Chicago Lawn
+    Chinatown
+    Clearing
+    Coleman
+    Daley, Richard J.-Bridgeport
+    Daley, Richard M.-W Humboldt
+    Douglass
+    Dunning
+    Edgebrook
+    Edgewater
+    Gage Park
+    Galewood-Mont Clare
+    Garfield Ridge
+    Greater Grand Crossing
+    Hall
+    Hegewisch
+    Humboldt Park
+    Independence
+    Jefferson Park
+    Jeffery Manor
+    Kelly
+    King
+    Legler
+    Lincoln Belmont
+    Lincoln Park
+    Little Village
+    Logan Square
+    Lozano
+    Manning
+    Mayfair
+    McKinley Park
+    Merlo
+    Mount Greenwood
+    Near North
+    North Austin
+    North Pulaski
+    Northtown
+    Oriole Park
+    Portage-Cragin
+    Pullman
+    Roden
+    Rogers Park
+    Roosevelt
+    Scottsdale
+    Sherman Park
+    South Chicago
+    South Shore
+    Sulzer Regional
+    Thurgood Marshall
+    Toman
+    Uptown
+    Vodak-East Side
+    Walker
+    Water Works
+    West Belmont
+    West Chicago Avenue
+    West Englewood
+    West Lawn
+    West Pullman
+    West Town
+    Whitney M. Young, Jr.
+    Woodson Regional
+    Wrightwood-Ashburn
+Abraham Lincoln Presidential Library and Museum
+East Chicago Public Library
+Oak Park Public Library
+Evanston Library
+Chicago Heights Public Library
+Robert Morris University
+    Robert Morris University Library
+Poetry Foundation
+    The Poetry Foundation Library
+The Gerber/Hart Library and Archives
+Downers Grove Public Library
+Skokie Public Library
+Edgewater Reads
+    Little Free Libraries
+Palatine Public Library
+Lake Forest College
+Lake Forest Public Library
+Arlington Heights Memorial Library
+Chicago Cultural Center
+The Armour Institute Library
+Chicago Historical Society Library
+John Crerar Library
+
+## High Schools
 Chicago Public Schools
     Air Force Academy High School
     Al Raby School for Community and Environment
@@ -247,9 +759,18 @@ Chicago Public Schools
     Whitney M. Young Magnet High School
     York Alternative High School
 
-Tulane University
-LeHigh University
-Northeastern University
+
+## Museums
+Museum of Holography
+International Museum of Surgical Science
+    The International Museum of Surgical Sciences Library
+    The Read/Write Library (previously known as Chicago Underground Library)
+Field Museum
+    Library and Photo Archives Collection
+Pritzker Military Museum
+    Pritzker Military Library
+Prado National Museum
+Money Museum
 Smithsonian
     African American History and Culture Museum
     African Art Museum
@@ -271,14 +792,14 @@ Smithsonian
     Arts and Industries Building
     American Indian Museum Heye Center
     Cooper Hewitt, Smithsonian Design Museum
-National Museum of China - Beijing
+National Museum of China
 Vatican Museums
-Natural History Museum - London
+Natural History Museum (London)
 Tate Modern
-National Palace Museum - Taiwan
+National Palace Museum (Taiwan)
 Centre Pompidou
 Shanghai Science and Technology Museum
-Science Museum - London
+Science Museum (London)
 Instituto Ricardo Brennand
 Inhotim
 Yad Vashem
@@ -307,7 +828,6 @@ National Baseball Hall of Fame and Museum
 Walker Art Center
 California Science Center
 Detroit Science Center
-Detroit Public Library
 San Francisco Museum of Modern Art
 Dallas Museum of Art
 Kimbell Art Museum
@@ -331,8 +851,6 @@ George Peabody House Museum
 Liberty Science Center
 Boston Museum
 Pennsylvania Academy of Fine Arts
-Rhode Island School of Design
-Art Center College of Design
 Pensacola Naval Air Station Historic District
 Crocker Art Museum
 Heinz Field
@@ -370,201 +888,21 @@ United States Holocaust Memorial Museum
 Museum of Modern Art
 Getty Center
 Cleveland Museum of Art
-Eastern Illinois University
-Governors State University
-Illinois State University
-Northeastern Illinois University
-Western Illinois University
-    Western Illinois University-Quad Cities
-California Institute of Technology
-Augustana College
-Blackburn College
-Columbia College Chicago
-Elmhurst College
-Eureka College
-Greenville College
-Illinois College
-Knox College
-Lake Forest College
-Lakeview College of Nursing
-Lincoln College (Illinois)
-MacMurray College
-Monmouth College
-North Central College
-Principia College
-Saint Anthony College of Nursing
-Shimer College
-Trinity Christian College
-Trinity International University
-VanderCook College of Music
-Wheaton College
-Aurora University
-Benedictine University
-Bradley University
-The Chicago School of Professional Psychology
-University of Chicago
-Concordia University Chicago
-DePaul University
-Dominican University
-East–West University
-Erikson Institute
-Illinois Institute of Technology
-Illinois Wesleyan University
-Judson University
-Lewis University
-Lincoln Christian University
-Lindenwood University-Belleville
-Loyola University Chicago
-Lutheran School of Theology at Chicago
-McKendree University
-Midwestern University
-Millikin University
-Moody Bible Institute
-National Louis University
-National University of Health Sciences
-North Park University
-Northern Baptist Theological Seminary
-Northwestern University
-Olivet Nazarene University
-Quincy University
-Resurrection University
-Massachusetts Institute of Technology
-Robert Morris University
-Rockford University
-Roosevelt University
-Rosalind Franklin University of Medicine and Science
-Rush University
-University of St. Francis
-Saint Xavier University
-School of the Art Institute of Chicago
-Spertus Institute for Jewish Learning and Leadership
-Toyota Technological Institute at Chicago
-Trinity International University
-New York University
-Cornell University
-Oberlin College
-Dartmouth College
-Albion College
-Hope College
-Vanderbilt University
-Washington University in St. Louis
-Rice University
-Emory University
-Georgetown University
-Carnegie Mellon University
-University of Southern California
-University of Virginia
-Tufts University
-Wake Forest University
-Boston College
-North Carolina State University
-University of Rochester
-Brandeis University
-Syracuse University
-College of William and Mary
-Georgia Institute of Technology
-Case Western Reserve University
-University of Pennsylvania
-Yale University
-Rhode Island School of Design
-University of Texas
-    University of Texas - Austin
-University of Washington
-Yeshiva University
-University of Alabama
-State University of New York
-    State University of New York - Albany
-    State University of New York - Buffalo
-University of Alberta
-University of Arizona
-University of British Columbia
-Catholic University of America
-Clarion University of Pennsylvania
-Dalhousie University
-University of Denver
-Dominican University
-Drexel University
-East Carolina University
-Emporia State University
-Florida State University
-University of Hawaii
-Kent State University
-University of Kentucky
-Long Island University
-Louisiana State University
-McGill University
-University of Maryland
-University of Michigan
-University of Missouri
-    University of Missouri - Columbia
-University of Montreal
-University of North Carolina
-    University of North Carolina - Chapel Hill
-    University of North Carolina - Greensboro
-State University of New York
-Liberty University
-The Pennsylvania State University
-Arizona State University
-University of Central Florida
-University of Maryland
-University of Minnesota
-University of Florida
-North Carolina Central University
-University of North Texas
-University of Oklahoma
-University of Ottawa
-University of Pittsburgh
-Pratt Institute
-University of Puerto Rico
-City University of New York
-    City University of New York - Queens College
-University of Rhode Island
-Rutgers University
-St. Catherine University
-St. John's University
-San Jose State University
-Simmons College
-University of South Carolina
-University of South Florida
-University of Southern Mississippi
-Syracuse University
-University of Tennessee
-Texas Woman's University
-University of Toronto
-Valdosta State University
-University of Washington
-Wayne State University
-University of Western Ontario
-Duke University
-Michigan Technical University
-Western Michigan University
-Eastern Michigan University
-Wayne State University
 Detroit Institute of Arts
-Pennsylvania State University
-    Pennsylvania State University - University Park
-University of Florida
-University of Miami
-Indiana University
-University of Notre Dame
-The Ohio State University
-    The Ohio State University - Columbus
-Indiana University
-University of Maryland
-Michigan State University
-Rutgers University
-    Rutgers University New Brunswick
-University of Iowa
-University of Minnesota
-Pepperdine University
-University of Nebraska
-    University of Nebraska - Lincoln
-University of Wisconsin
-    University of Wisconsin - Madison
-    University of Wisconsin - Milwaukee
-Johns Hopkins University
+Chicago Academy of Sciences
+    Peggy Notebaert Nature Museum
+Field Columbian Museum
+Museum of Contemporary Art
+    Library
+
+
+## Awards
 Abraham Lincoln High School Book Award
-Abraham Lincoln Presidential Library and Museum
+Eliminate the Digital Divide Grant Program
+
+
+
+## Consortia
 Academic Law Library Directors of Greater New York
 Arizona Law Library Consortium
 Chicago Legal Academic System
@@ -601,7 +939,6 @@ Council of Directors of State University Libraries in Illinois
 Chicago Public Library System
 Center for Research Libraries
 East Central Illinois Consortium
-Eliminate the Digital Divide Grant Program
 Electronic Documents of Illinois
 Government Documents Forum
 Greater Midwest Region of the National Network of Libraries of Medicine
@@ -675,446 +1012,78 @@ Library Learning
 Live and Learn
 Library Administrators Conference of Northern Illinois.
 Library Automation & Technology Group at the Illinois State Library.
-Illinois State Library
-    Library Development Group
 Library Integrated Network Consortium
 Local Library System Automation Programs
 Libraries Very Interested in Sharing
 Chicago Area Museum Libraries
-Feinberg School of Medicine
-John Marshall Law School
-Chicago State University
-Roosevelt University
-    Roosevelt University Library
-East Chicago Public Library
-Oak Park Public Library
-Evanston Library
-Chicago Heights Public Library
-Robert Morris University
-    Robert Morris University Library
-Poetry Foundation
-    The Poetry Foundation Library
-The Gerber/Hart Library and Archives
-Downers Grove Public Library
-Skokie Public Library
-Edgewater Reads
-    Little Free Libraries
-Palatine Public Library
-Lake Forest College
-Lake Forest Public Library
-Arlington Heights Memorial Library
-Chicago Cultural Center
-The Armour Institute Library
-Chicago Historical Society Library
-John Crerar Library
-Chicago Law Institute
-Chicago Academy of Sciences
-    Peggy Notebaert Nature Museum
-Field Columbian Museum
-Chicago Association of Law Libraries
-Newberry Library
-Chicago Public Library
-    Harold Washington Library Center
-    Albany Park
-    Altgeld
-    Archer Heights
-    Austin
-    Austin-Irving
-    Avalon
-    Back of the Yards
-    Beverly
-    Bezazian
-    Blackstone
-    Brainerd
-    Brighton Park
-    Bucktown-Wicker Park
-    Budlong Woods
-    Canaryville
-    Chicago Bee
-    Chicago Lawn
-    Chinatown
-    Clearing
-    Coleman
-    Daley, Richard J.-Bridgeport
-    Daley, Richard M.-W Humboldt
-    Douglass
-    Dunning
-    Edgebrook
-    Edgewater
-    Gage Park
-    Galewood-Mont Clare
-    Garfield Ridge
-    Greater Grand Crossing
-    Hall
-    Hegewisch
-    Humboldt Park
-    Independence
-    Jefferson Park
-    Jeffery Manor
-    Kelly
-    King
-    Legler
-    Lincoln Belmont
-    Lincoln Park
-    Little Village
-    Logan Square
-    Lozano
-    Manning
-    Mayfair
-    McKinley Park
-    Merlo
-    Mount Greenwood
-    Near North
-    North Austin
-    North Pulaski
-    Northtown
-    Oriole Park
-    Portage-Cragin
-    Pullman
-    Roden
-    Rogers Park
-    Roosevelt
-    Scottsdale
-    Sherman Park
-    South Chicago
-    South Shore
-    Sulzer Regional
-    Thurgood Marshall
-    Toman
-    Uptown
-    Vodak-East Side
-    Walker
-    Water Works
-    West Belmont
-    West Chicago Avenue
-    West Englewood
-    West Lawn
-    West Pullman
-    West Town
-    Whitney M. Young, Jr.
-    Woodson Regional
-    Wrightwood-Ashburn
-Museum of Contemporary Art
-    Library
-Alliance Française
-    Brown Library & Médiathèque
-Instituto Cervantes
-Goethe Institut
-La Grange Public Library
-Schaumburg Township District Libraries
-    Hanover Park Branch
-International Museum of Surgical Science
-    The International Museum of Surgical Sciences Library
-    The Read/Write Library (previously known as Chicago Underground Library)
-Illinois Institute of Technology
-    Kent College of Law
-        Library
-Field Museum
-    Library and Photo Archives Collection
-Pritzker Military Museum
-    Pritzker Military Library
-St. Augustine College
-Museum of Holography
+
+
+## Foundations
+National Endowment for the Humanities
+National Science Foundation
+National Endowment for the Arts
+Ford Foundation
+Kresge Foundation
+Bill and Melinda Gates Foundation
+J. Paul Getty Trust
+Getty Images
+Robert Wood Johnson Foundation
+William and Flora Hewlett Foundation
+The MasterCard Foundation
+W.K. Kellogg Foundation
+Lilly Endowment
+Andrew W. Mellon Foundation
+John D. and Catherine T. MacArthur Foundation
+The Pew Charitable Trusts
+Bill & Melinda Gates Foundation
+Stichting INGKA Foundation
+Wellcome Trust
+Howard Hughes Medical Institute
+Ford Foundation
+J. Paul Getty Trust
+Kamehameha Schools
+Mohammed bin Rashid Al Maktoum Foundation
+Azim Premji Foundation
+Robert Wood Johnson Foundation
+William and Flora Hewlett Foundation
+Li Ka Shing Foundation
+The MasterCard Foundation
+W.K. Kellogg Foundation
+The Church Commissioners for England
+Lilly Endowment
+Robert Bosch Foundation
+Garfield Weston Foundation
+Gordon and Betty Moore Foundation
+David and Lucile Packard Foundation
+Andrew W. Mellon Foundation
+John D. and Catherine T. MacArthur Foundation
+The Pew Charitable Trusts
+Knut and Alice Wallenberg Foundation
+Silicon Valley Community Foundation
+Nemours Foundation
+Bloomberg Philanthropies
+The Leona M. and Harry B. Helmsley Charitable Trust
+Sulaiman Abdul Aziz Al Rajhi
+Tulsa Community Foundation
+Rockefeller Foundation
+The California Endowment
+Realdania
+Calouste Gulbenkian Foundation
+The Duke Endowment
+
+
+## Performing Arts
 Chopin Theater
-East-West Academy
-Shimer College
-Illinois College of Optometry
-VanderCook College of Music
-Museum of Science and Industry
-Adler Planetarium & Astronomy Museum
-College of DuPage
-College of Lake County
-Elgin Community College
-Harper College
-Joliet Junior College=
-MacCormac College
-McHenry County College
-Moraine Valley Community College
-Morton College
-Oakton Community College
-Prairie State College
-South Suburban College
-Triton College
-Waubonsee Community College
-Calumet College of St. Joseph
-Carthage College
-Elmhurst College
-Hebrew Theological College
-North Central College
-Saint Joseph's College
-Telshe Yeshiva
-Trinity Christian College
-Wheaton College
-Aurora University
-Benedictine University
-Concordia University Chicago
-DePaul University
-Dominican University
-Governors State University
-Illinois Institute of Technology
-    Wheaton, Illinois
-    Chicago, Illinois
-Indiana University Northwest
-Judson University
-Lewis University
-Midwestern University
-National University of Health Sciences
-North Park University
-Northeastern Illinois University
-Theatre Historical Society of America
-James Willard Historical Association
 Chicago Symphony Orchestra
-Chicago Architecture Foundation
 Lyric Opera of Chicago
 Goodman Theater
 Steppenwolf Theater
 Joffrey Ballet
-
-Northern Illinois University
-Purdue University
-    Purdue University Calumet
-    Purdue University North Central
-Resurrection University
-    Chicago
-    Evanston
-    Oak Park
-Robert Morris University
-Quincy University
-Argosy University
-Augustana College
-Aurora University
-Benedictine University
-Blackburn College
-Blessing-Rieman College of Nursing
-Bradley University
-Catholic Theological Union
-Chicago State University
-Columbia College Chicago
-Concordia University Chicago
-DePaul University
-DeVry University
-Dominican University
-Eastern Illinois University
-East-West University
-Elmhurst College
-Eureka College
-Governors State University
-Greenville College
-Harrington College of Design
-Illinois College
-Illinois College of Optometry
-Illinois Institute of Technology
-Illinois State University
-Illinois Wesleyan University
-Judson University
-Kendall College
-Knox College
-Lake Forest College
-Lake Forest Graduate School of Management
-Lewis University
-Lincoln Christian University
-Loyola University Chicago
-MacMurray College
-McKendree University
-Midwestern University
-Millikin University
-Moody Bible Institute
-National University of Health Sciences
-National-Louis University
-North Central College
-Northern Illinois University
-Olivet Nazarene University
-Principia College
-Roosevelt University
-Saint Xavier University
-Trinity International University
-University of St. Francis
-Trinity Christian College
-Southern Illinois University
-    Southern Illinois University Carbondale
-    Southern Illinois University Edwardsville
-Saint Francis Medical Center College of Nursing
-Rosalind Franklin University of Medicine and Science
-Rockford College
-Rock Valley College
-Trinity International University
-University of Saint Mary of the Lake
-University of Wisconsin–Parkside
-Valparaiso University
-Adler School of Professional Psychology
-Bexley Seabury
-Catholic Theological Union
-Chicago College of Osteopathic Medicine\
-Chicago Theological Seminary
-Erikson Institute\
-Garrett–Evangelical Theological Seminary
-Illinois College of Optometry
-The Institute for Clinical Social Work
-John Marshall Law School
-Lake Forest Graduate School of Management
-Loyola University Chicago
-Lutheran School of Theology at Chicago
-McCormick Theological Seminary
-Meadville Lombard Theological School
-Northern Baptist Theological Seminary
-Robert Morris University
-    Morris Graduate School of Management
-Rosalind Franklin University of Medicine and Science
-Rush University
-Spertus Institute for Jewish Learning and Leadership
-Toyota Technological Institute at Chicago
-The Chicago School of Professional Psychology
-    Chicago Campus Library
-    Los Angeles & Irvine Library
-    Washington, D.C. Campus Library
 WBEZ
-American Conservatory of Music
-    (1886–1991, Chicago)
-Barat College
-    (1858–2005, Lake Forest, Illinois)
-Bush Conservatory of Music
-    (1901–1932, Chicago)
-Central YMCA College
-    (1922–1945, Chicago)
-The Chicago Conservatory College
-    (1857–1981, Chicago)
-Evanston College for Ladies
-    (1871–1873, Evanston, Illinois), merged with Northwestern University in 1873
-Illinois Technical College
-    (1950–1992, Chicago)
-International Academy of Design & Technology
-    Schaumburg
-    (1977–2015)
-La Salle Extension University
-    (1908–1982, Chicago)
-Lexington College
-    (1977–2014, Chicago)
-Mundelein College
-    (1930–1991, Chicago)
-Old University of Chicago
-    (1857–1886, Chicago)
-Lincoln Park Zoo
-Chicago Zoological Society
-    Brookfield Zoo
-Morton Arboretum
-Hemingway Foundation
-Lincoln Park Conservatory
-Intuit: The Center for Intuitive and Outsider Art
+WFMT
 The Second City
 The Neo-Futurists
 Chicago Shakespeare Theater
-Garfield Park Conservatory
-Charnley–Persky House
-Chicago Architecture Foundation
-Driehaus Museum
-Graham Foundation for Advanced Studies in the Fine Arts
-Chicago History Museum
-Clarke House Museum
-Edgewater Historical Society & Museum
-Glessner House Museum
-Jane Addams Hull-House Museum
-McCormick Bridgehouse & Chicago River Museum
-Norwood Park Historical Society Museum
-Balzekas Museum of Lithuanian Culture
-Chicago Design Museum
-Chinese-American Museum of Chicago
-Copernicus Foundation
-DANK Haus German American Cultural Center
-DuSable Museum of African American History
-Irish American Heritage Center
-National Hellenic Museum
-National Museum of Puerto Rican Arts and Culture
-Mitchell Museum of the American Indian
-National Italian American Sports Hall of Fame
-Polish Museum of America
-Spertus Institute for Jewish Learning and Leadership
-Swedish American Museum Center
-Ukrainian National Museum
-A. Philip Randolph Pullman Porter Museum
-Chicago Sports Museum
-Leather Archives and Museum
-Money Museum
-Museum of Broadcast Communications
-Pritzker Military Museum & Library
-American Toby Jug Museum
-Adler Planetarium
-Field Museum of Natural History
-International Museum of Surgical Science
-Museum of Science and Industry
-Oriental Institute Museum
-Peggy Notebaert Nature Museum
-American Writers Museum
-Barack Obama Presidential Center
-Lucas Museum of Narrative Art
-ABA Museum of Law, closed in 2011
-American Police Center & Museum
-McCormick Tribune Freedom Museum, closed in 2009
-Museum of Holography
-The Peace Museum
-Smith Museum of Stained Glass Windows, closed in 2014
-Terra Museum, closed on October 31, 2004
-American Academy of Art
-    Bill L. Parks Gallery
-
-ARC Gallery
-Beacon Street Gallery and Performance Company
-Boeing Galleries
-Bridgeport Art Center
-Catholic Theological Union
-    Mary-Frances and Bill Veeck Gallery
-Columbia College Chicago
-    Columbia College Chicago Archives
-    Anchor Graphics
-    Center for Book and Paper Arts
-    Glass Curtain Gallery
-    Hokin Gallery and Annex
-    Library
-Chicago Architecture Foundation
-Chicago State University
-    President's Gallery
-    University Gallery
-City Gallery at the Historic Water Tower
-Copernicus Foundation
-DePaul Art Museum
-Gallery 400 at the University of Illinois at Chicago
-Hairpin Arts Center
-Hyde Park Art Center
-Illinois Institute of Technology
-    Galvin Library
-        Kemper Gallery
-ISM Chicago Gallery
-John David Mooney Foundation
-    International Currents Gallery
-Lillstreet Art Center
-Little Black Pearl Art & Design Center
-Loyola University Chicago
-    Crown Center Gallery
-Marwen
-Northeastern Illinois University
-    Fine Arts Gallery
-Old Town Triangle Art Center
-The Palette and Chisel Academy of Fine Arts
-Renaissance Society
-Robert Morris University Illinois
-    State Street Gallery
-Roosevelt University
-    Gage Gallery
-Saint Xavier University
-    SXU Gallery
-South Side Community Art Center
-South Shore Cultural Center
-Spudnik Press Cooperative
-Woman Made Gallery
-Garfield Park Conservatory
-Lincoln Park Conservatory
-Lincoln Park Zoo
-Shedd Aquarium
-Chicago Public Library
-Gerber/Hart Library
-John Crerar Library
-Newberry Library
-Poetry Foundation
-Ryerson & Burnham Libraries
 Chicago Ballet
 Chicago Festival Ballet
 Civic Ballet of Chicago
@@ -1132,6 +1101,7 @@ Thodos Dance Chicago
 Chamber Opera Chicago
 Chicago Opera Theater
 DuPage Opera Theatre
+Beacon Street Gallery and Performance Company
 Light Opera Works
 Lithuanian Opera Company of Chicago
 Lyric Opera of Chicago
@@ -1158,157 +1128,9 @@ Riviera Theatre
 Rosemont Theater
 Symphony Center
 The Museum of Classic Chicago Television
-Museum of Holography
-Chicago Art Dealers Association
-Chicago Artists' Coalition
-Chicago Department of Cultural Affairs and Special Events
-Chicago Public Art Group
-Chicago Public Art Program
-Chicago Society of Artists
-Flat Iron Artists Association
-Illinois Artisans Program
-Illinois Arts Council
-Jazz Institute of Chicago
-Lawyers for the Creative Arts
-League of Chicago Theatres
-Public Media Institute
-Bronzeville Children's Museum
-Chicago Children's Museum
-Swedish American Museum and Children's Museum of Immigration
-Robie House
-Chicago Botanic Garden
-    The Lenhardt Library
-DePaul University
-    DePaul University Library
-    DePaul Art Museum
-Arts Club of Chicago
-Balzekas Museum of Lithuanian Culture
-Cernan Earth and Space Center
-Chicago Children's Museum
-Chicago Design Museum
-Chicago History Museum
-DePaul University Special Collections and Archives
-Loyola University Chicago Archives and Special Collections
-National-Louis University Archives and Special Collections
-Northwestern University Charles Deering McCormick Library of Special Collections
-Roosevelt University Archives
-University of Illinois at Chicago Special Collections and University Archives
-Archdiocese of Chicago Archives and Records
-Chicago Theological Seminary Library
-JKM Library
-The United Library Special Collections
-National Archives
-    National Archives Great Lakes Region
-    National Archives at Chicago
-    Presidential Libraries and Museums
-        Herbert Hoover Library
-        Franklin D. Roosevelt Library
-        Harry S. Truman Library
-        Dwight D. Eisenhower Library
-        John F. Kennedy Library
-        Lyndon B. Johnson Library
-        Richard Nixon Library
-        Gerald R. Ford Library
-        Jimmy Carter Library
-        Ronald Reagan Library
-        George H. W. Bush Library
-        William J. Clinton Library
-        George W. Bush Library
-Illinois Regional Archives Depository
-Driehaus Museum
-DuSable Museum of African American History
-Evanston Art Center
-Hellenic Museum and Cultural Center
-Hyde Park Art Center
-Illinois Holocaust Museum
-Illinois Railway Museum
-Rush University
-    Rush University Medical Center
-        Library
-Richard J. Daley College
-Kennedy King College
-Adler University
-Spertus Museum
-Concordia University Chicago
-    Klinck Memorial Library
-National Louis University
-Northeastern Illinois University
-Saint Xavier University
-Joliet Junior College
-North Park University
-Moody Bible Institute
-    Crowell Library
-Christian Library Consortium
-American Theological Library Association
-    Chicago Area Theological Library Association
-Consortium of Academic and Research Libraries in Illinois
-Library Integrated Network Consortium
-Batavia Public Library
-Bloomingdale Public Library
-Franklin Park Library
-Geneva Public Library District
-Glen Ellyn Public Library
-Itasca Community Library
-St. Charles Public Library
-Villa Park Public Library
-West Chicago Public Library District
-Center for Research Libraries
-    Northeast Research Libraries Consortium
-Acorn Public Library District
-Alsip-Merrionette Park Public Library District
-Bedford Park Public Library District
-Beecher Community Library District
-Bellwood Public Library
-Berkeley Public Library
-Berwyn Public Library
-Blue Island Public Library
-Bridgeview Public Library
-Broadview Public Library District
-Brookfield Public Library
-Brookfield Zoo
-    Library
-Calumet City Public Library
-Calumet Park Public Library
-Chicago Heights Public Library
-Chicago Ridge Public Library
-Cicero Public Library
-Clarendon Hills Public Library
-Crestwood Public Library District
-Crete Public Library District
-Dolton Public Library District
-Downers Grove Public Library
-Eisenhower Public Library District
-Elmwood Park Public Library
-Evergreen Park Public Library
-Flossmoor Public Library
-Forest Park Public Library
-Frankfort Public Library District
-Frankfort Public Library District
-    Outreach
-Franklin Park Public Library District
-Glenwood-Lynwood Public Library District
-Glenwood-Lynwood Public Library District
-    Bookmobile
-Grande Prairie Public Library District
-Harvey Public Library District
-Hillside Public Library
-Hinsdale Public Library
-Hodgkins Public Library District
-Homewood Public Library District
-Indian Prairie Public Library District
-Justice Public Library District
-LaGrange Park Public Library District
-LaGrange Public Library
-Lansing Public Library
-Lyons Public Library
-Markham Public Library
-    Bradford Anderson Oglesby Library
-Matteson Area Public Library District
-Maywood Public Library District
-McCook Public Library District
-Melrose Park Public Library
-Midlothian Public Library
-Nancy L. McConathy Public Library District
+
+
+## Private Companies and Technologies
 Online Computer Library Center
     WorldCat
         WorldCat Local
@@ -1409,10 +1231,6 @@ Axiell Group
 Virtua
 WorldShare Management Services
 LIBROS Consortium
-University of Louisville
-Kentucky State University
-Eastern Kentucky University
-Northern Kentucky University
 Bowker
 ProQuest Research Solutions
 Intota
@@ -1422,42 +1240,255 @@ EBSCO Discovery Service
 ProQuest
     Summon
     ProQuest Workflow Solutions
-North Riverside Public Library District
-Northlake Public Library District
-Oak Lawn Public Library
-    Main Library
-    Dole Branch Library
-    Maze Branch Library
-Palos Heights Public Library
-Palos Park Public Library
-Park Forest Public Library
+
+## Sort Me
+
+Schaumburg Township District Libraries
+    Hanover Park Branch
+
+
+
+Chicago Association of Law Libraries
+Chicago Law Institute
+La Grange Public Library
+
+
+
+Alliance Française
+    Brown Library & Médiathèque
+Instituto Cervantes
+Goethe Institut
+East-West Academy
+Shimer College
+Illinois College of Optometry
+VanderCook College of Music
+Museum of Science and Industry
+Adler Planetarium & Astronomy Museum
+Theatre Historical Society of America
+James Willard Historical Association
+Chicago Architecture Foundation
+
+
+
+
+
+Old University of Chicago
+Lincoln Park Zoo
+Chicago Zoological Society
+    Brookfield Zoo
+Morton Arboretum
+Hemingway Foundation
+Lincoln Park Conservatory
+Intuit: The Center for Intuitive and Outsider Art
+
+Garfield Park Conservatory
+Charnley–Persky House
+Driehaus Museum
+Graham Foundation for Advanced Studies in the Fine Arts
+Chicago History Museum
+Clarke House Museum
+Edgewater Historical Society & Museum
+Glessner House Museum
+Jane Addams Hull-House Museum
+McCormick Bridgehouse & Chicago River Museum
+Norwood Park Historical Society Museum
+Balzekas Museum of Lithuanian Culture
+Chicago Design Museum
+Chinese-American Museum of Chicago
+Copernicus Foundation
+DANK Haus German American Cultural Center
+DuSable Museum of African American History
+Irish American Heritage Center
+National Hellenic Museum
+National Museum of Puerto Rican Arts and Culture
+Mitchell Museum of the American Indian
+National Italian American Sports Hall of Fame
+Polish Museum of America
+Spertus Institute for Jewish Learning and Leadership
+Swedish American Museum Center
+Ukrainian National Museum
+A. Philip Randolph Pullman Porter Museum
+Chicago Sports Museum
+Leather Archives and Museum
+Money Museum
+Museum of Broadcast Communications
+Pritzker Military Museum & Library
+American Toby Jug Museum
+Adler Planetarium
+Field Museum of Natural History
+International Museum of Surgical Science
+Museum of Science and Industry
+Oriental Institute Museum
+Peggy Notebaert Nature Museum
+American Writers Museum
+Barack Obama Presidential Center
+Lucas Museum of Narrative Art
+ABA Museum of Law, closed in 2011
+American Police Center & Museum
+McCormick Tribune Freedom Museum, closed in 2009
+Museum of Holography
+The Peace Museum
+Smith Museum of Stained Glass Windows, closed in 2014
+Terra Museum, closed on October 31, 2004
+American Academy of Art
+    Bill L. Parks Gallery
+
+ARC Gallery
+Boeing Galleries
+Bridgeport Art Center
+Catholic Theological Union
+    Mary-Frances and Bill Veeck Gallery
+Columbia College Chicago
+    Columbia College Chicago Archives
+    Anchor Graphics
+    Center for Book and Paper Arts
+    Glass Curtain Gallery
+    Hokin Gallery and Annex
+    Library
+Chicago State University
+    President's Gallery
+    University Gallery
+City Gallery at the Historic Water Tower
+Copernicus Foundation
+DePaul Art Museum
+Gallery 400 at the University of Illinois at Chicago
+Hairpin Arts Center
+Hyde Park Art Center
+Illinois Institute of Technology
+    Galvin Library
+        Kemper Gallery
+ISM Chicago Gallery
+John David Mooney Foundation
+    International Currents Gallery
+Lillstreet Art Center
+Little Black Pearl Art & Design Center
+Loyola University Chicago
+    Crown Center Gallery
+Marwen
+Northeastern Illinois University
+    Fine Arts Gallery
+Old Town Triangle Art Center
+The Palette and Chisel Academy of Fine Arts
+Renaissance Society
+Robert Morris University Illinois
+    State Street Gallery
+Roosevelt University
+    Gage Gallery
+Saint Xavier University
+    SXU Gallery
+South Side Community Art Center
+South Shore Cultural Center
+Spudnik Press Cooperative
+Woman Made Gallery
+Garfield Park Conservatory
+Lincoln Park Conservatory
+Lincoln Park Zoo
+Shedd Aquarium
+Chicago Public Library
+Gerber/Hart Library
+John Crerar Library
+Newberry Library
+Poetry Foundation
+Ryerson & Burnham Libraries
+
+Museum of Holography
+Chicago Art Dealers Association
+Chicago Artists' Coalition
+Chicago Department of Cultural Affairs and Special Events
+Chicago Public Art Group
+Chicago Public Art Program
+Chicago Society of Artists
+Flat Iron Artists Association
+Illinois Artisans Program
+Illinois Arts Council
+Jazz Institute of Chicago
+Lawyers for the Creative Arts
+League of Chicago Theatres
+Public Media Institute
+Bronzeville Children's Museum
+Chicago Children's Museum
+Swedish American Museum and Children's Museum of Immigration
+Robie House
+Chicago Botanic Garden
+    The Lenhardt Library
+DePaul University
+    DePaul University Library
+    DePaul Art Museum
+Arts Club of Chicago
+Balzekas Museum of Lithuanian Culture
+Cernan Earth and Space Center
+Chicago Children's Museum
+Chicago Design Museum
+Chicago History Museum
+DePaul University
+    Special Collections and Archives
+Loyola University Chicago
+    Archives and Special Collections
+National-Louis University
+    Archives and Special Collections
+Northwestern University
+    Charles Deering McCormick Library of Special Collections
+Roosevelt University Archives
+University of Illinois at Chicago
+    Special Collections and University Archives
+Archdiocese of Chicago
+    Archives and Records
+Chicago Theological Seminary Library
+JKM Library
+The United Library Special Collections
+National Archives
+    National Archives Great Lakes Region
+    National Archives at Chicago
+    Presidential Libraries and Museums
+        Herbert Hoover Library
+        Franklin D. Roosevelt Library
+        Harry S. Truman Library
+        Dwight D. Eisenhower Library
+        John F. Kennedy Library
+        Lyndon B. Johnson Library
+        Richard Nixon Library
+        Gerald R. Ford Library
+        Jimmy Carter Library
+        Ronald Reagan Library
+        George H. W. Bush Library
+        William J. Clinton Library
+        George W. Bush Library
+Illinois Regional Archives Depository
+Driehaus Museum
+DuSable Museum of African American History
+Evanston Art Center
+Hellenic Museum and Cultural Center
+Hyde Park Art Center
+Illinois Holocaust Museum
+Illinois Railway Museum
+Rush University
+    Rush University Medical Center
+        Library
+Richard J. Daley College
+Kennedy King College
+Adler University
+Spertus Museum
+Concordia University Chicago
+    Klinck Memorial Library
+National Louis University
+Northeastern Illinois University
+Saint Xavier University
+Joliet Junior College
+North Park University
+Moody Bible Institute
+    Crowell Library
+Christian Library Consortium
+American Theological Library Association
+    Chicago Area Theological Library Association
+Consortium of Academic and Research Libraries in Illinois
+Library Integrated Network Consortium
+
 Prairie State College
     Library
-Prairie Trails Public Library District
-Richton Park Public Library District
-River Forest Public Library
-River Grove Public Library District
-Riverdale Public Library District
-Riverside Public Library
-Schiller Park Public Library
-South Holland Public Library
 South Suburban College
     Learning Resources Center
-Steger-South Chicago Heights Public Library District
-Stickney-Forest View Public Library District
-Summit Public Library District
 The Morton Arboretum
     Sterling Morton Library
-Thomas Ford Memorial Library
-Thornton Public Library
-Tinley Park Public Library
-    Bookmobile
-University Park Public Library District
-Westchester Public Library
-Westmont Public Library
-William Leonard Public Library District
-Woodridge Public Library
-Worth Public Library District
 Harold Washington College
 Kohl Children's Museum
 Latvian Folk Art Museum
@@ -1487,3 +1518,5 @@ Gerber/Hart Library and Archives
 Vivian Harsh Research Collection of Afro-American History and Literature
 Harold Washington Library Special Collections Center
 Frances Willard Memorial Library and Archives
+
+
