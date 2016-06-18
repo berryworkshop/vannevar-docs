@@ -93,6 +93,8 @@ heroku
 * iFixit
     - model for graphical, step-by-step, modular tutorials
     - http://ifixit.com/
+* Instructables
+    - http://www.instructables.com/
 * Atlas Obscura
     - model for exploration and adventure: an experiential site
     - http://www.atlasobscura.com/

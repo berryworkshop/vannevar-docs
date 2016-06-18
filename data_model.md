@@ -2,6 +2,8 @@
 
 Notes:
     Organizations are not endpoints: must be able to be a parent or child
+    Org must have at least one (default) location
+        Can be only a URL?
 
 * item
     * person
@@ -25,6 +27,9 @@ Notes:
     * consortium
     * federation
     * school
+    * service
+    * conference
+    * foundation
 * organization structure
     * nonprofit
     * corporation
