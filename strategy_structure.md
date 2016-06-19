@@ -87,6 +87,12 @@ heroku
 
 
 ## Inspiration
+* Encyclopedia of Chicago
+    - http://www.encyclopedia.chicagohistory.org/
+* Foss4Lib
+    - https://foss4lib.org/packages
+* Chicago Gallery News
+    - http://www.chicagogallerynews.com/
 * Internet Movie Database
     - model for user-submitted, interconnected, and browsable data, with people, institutions, and creative works represented
     - http://imdb.com

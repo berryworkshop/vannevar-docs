@@ -11,18 +11,23 @@ Notes:
         - name
         - visited places
     * thing
+    * technology
     * place
     * event
     * relation
 * item_group
     * organization
     * collection
+    * system
     * area
     * series
     * network
 * organization type
     * archive
     * museum
+    * gallery
+    * art center
+    * association
     * library
     * consortium
     * federation
