@@ -15,6 +15,7 @@ Amarillo Museum of Art
 Amelia Island Museum of History
 America on Wheels Museum
 American Folk Art Museum
+The Mount
 American Jazz Museum
 American Museum of Ceramic Art
 American Museum of Natural History

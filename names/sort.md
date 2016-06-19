@@ -34,7 +34,6 @@ Little Black Pearl
 Los Angeles Contemporary Exhibitions
 McDonald Observatory
 Menil Collection
-Mount
 NNWAC's Acme Art Works
 Northwest Cultural Council
 Old US Mint

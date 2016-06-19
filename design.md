@@ -19,6 +19,8 @@
             * Ochre
             * Scarlet
     * Fonts
+        * All
+            1. https://www.fonts.com/font/font-bureau/benton-sans
         * Header
             1. https://www.myfonts.com/fonts/m-b-creative/mb-vinatage/
             1. https://www.myfonts.com/fonts/hvdfonts/brandon-grotesque/
